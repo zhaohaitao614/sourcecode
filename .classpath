@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.generic_5.0">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="D:/programs_setup/tomcat/lib"/>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/annotations-api.jar" sourcepath="C:/Users/E470/AppData/Local/Temp/.org.sf.feeling.decompiler1509863641377/source/tomcat-annotations-api-7.0.81-sources.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/catalina.jar" sourcepath="C:/Users/E470/AppData/Local/Temp/.org.sf.feeling.decompiler1513668866857/source/tomcat-catalina-7.0.78-sources.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/ecj-4.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/servlet-api.jar" sourcepath="C:/Users/E470/AppData/Local/Temp/.org.sf.feeling.decompiler1517466845174/source/tomcat-servlet-api-7.0.78-sources-1517474880368.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/tomcat7-websocket.jar" sourcepath="C:/Users/E470/AppData/Local/Temp/.org.sf.feeling.decompiler1513668866857/source/tomcat7-websocket-7.0.78-sources.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/tomcat-coyote.jar" sourcepath="C:/Users/E470/AppData/Local/Temp/.org.sf.feeling.decompiler1513668866857/source/tomcat-coyote-7.0.78-sources.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="D:/programs_setup/tomcat/lib/websocket-api.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
