@@ -51,7 +51,7 @@ public class AdminBankuaiController {
 		return "jsp/admin/bankuai/index";
 	}
 	
-	//跳转到修改页面
+	//跳转到修改页面test
 	@RequestMapping("toupdateoradd.do")
 	public String toupdateoradd(Bankuai bankuai, Model model) {
 		if(bankuai.getId()!=null){
