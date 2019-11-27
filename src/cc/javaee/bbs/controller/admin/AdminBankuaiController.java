@@ -34,6 +34,9 @@ public class AdminBankuaiController {
 	@Autowired
 	JifenGroupService jifenGroupService;
 
+	/**
+	 * 日志
+	 */
 	private static Logger log = Logger.getLogger(AdminBankuaiController.class);
 
 	//后台页面查询
