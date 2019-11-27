@@ -10,6 +10,7 @@ import cc.javaee.bbs.model.Bankuai;
 import cc.javaee.bbs.model.PageBean;
 @Repository
 public class BankuaiDao extends SqlSessionDaoSupport{
+	//版块
 	String ns="jbbs_bankuai.";
 	public List<Bankuai> findpage(PageBean<Bankuai> page) {
 		return this.getSqlSession().selectList(ns+"findpage", page);
